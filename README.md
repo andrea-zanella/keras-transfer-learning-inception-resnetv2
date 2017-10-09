@@ -12,12 +12,12 @@ You will also need the dataset, u can find the one I used for this example at
 https://mega.nz/#!Bo42wLKK!yyR7gXJSFOSwy-W7R-TVbSfBmict5TdUvTuiSvEOZSE
 
 As you can see the dataset follow this structure:
-Dataset
-   ├── cats
-   ├── dogs
-   ├── horses
-   └── humans
-   
+Dataset  
+ ├── cats  
+ ├── dogs  
+ ├── horses  
+ └── humans  
+
 You can use the sample dataset from the link or you can also change it but u have to follow this structure.
 
 ## Quick start
