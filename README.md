@@ -20,6 +20,11 @@ Dataset
 
 You can use the sample dataset from the link or you can also change it but u have to follow this structure.
 
+Edit. Looks like the dataset is gone, you can use the flower dataset in order to test this code. Just open a new bash terminal (if you are on windows open Git bash) and type:
+curl -LO http://download.tensorflow.org/example_images/flower_photos.tgz
+tar xzf flower_photos.tgz
+This will download and extract the dataset in the folder.
+
 ## Quick start
 Run evaluate.py
 If it's the first time it will train the last layer of the model with the dataset you choose.
